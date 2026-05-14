@@ -1,10 +1,10 @@
-@import "theme.css";
-@import "/session/header.css";
-@import "/session/footer.css";
-@import "/session/about-me.css";
-@import "/session/skills.css";
-@import "/session/project-me.css";
-@import "/css/animations.css";
+@import "./theme.css";
+@import "../session/header.css";
+@import "../session/footer.css";
+@import "../session/about-me.css";
+@import "../session/skills.css";
+@import "../session/project-me.css";
+@import "./animations.css";
 
 * {
   box-sizing: border-box;
